@@ -1,0 +1,11 @@
+{
+  "app": {
+    "[project]/Downloads/track-b/frontend/src/app/_not-found/page": [],
+    "[project]/Downloads/track-b/frontend/src/app/auth/jwt/sign-in/page": [],
+    "[project]/Downloads/track-b/frontend/src/app/dashboard/page": [],
+    "[project]/Downloads/track-b/frontend/src/app/page": []
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

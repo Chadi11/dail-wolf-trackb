@@ -1,0 +1,3 @@
+{
+  "/auth/jwt/sign-in/page": "app/auth/jwt/sign-in/page.js"
+}

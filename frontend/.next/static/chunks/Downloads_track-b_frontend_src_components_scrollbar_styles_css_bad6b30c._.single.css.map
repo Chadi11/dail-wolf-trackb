@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Downloads/track-b/frontend/src/components/scrollbar/styles.css"],"sourcesContent":["@import 'simplebar-react/dist/simplebar.min.css';\n\n.simplebar-scrollbar:before {\n  background-color: var(--palette-text-disabled);\n}\n.simplebar-scrollbar.simplebar-visible:before {\n  opacity: 0.48;\n}\n"],"names":[],"mappings":"AAEA;;;;AAGA"}}]
+}

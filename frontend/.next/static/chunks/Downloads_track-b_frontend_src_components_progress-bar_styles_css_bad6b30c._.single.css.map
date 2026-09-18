@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Downloads/track-b/frontend/src/components/progress-bar/styles.css"],"sourcesContent":["#nprogress {\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 2.5px;\n  z-index: 9999;\n  position: fixed;\n  pointer-events: none;\n}\n#nprogress .bar {\n  height: 100%;\n  background-color: var(--palette-primary-main);\n  box-shadow: 0 0 2.5px var(--palette-primary-main);\n}\n#nprogress .peg {\n  right: 0;\n  opacity: 1;\n  width: 100px;\n  height: 100%;\n  display: block;\n  position: absolute;\n  transform: rotate(3deg) translate(0px, -4px);\n  box-shadow:\n    0 0 10px var(--palette-primary-main),\n    0 0 5px var(--palette-primary-main);\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;AASA;;;;;;AAKA"}}]
+}

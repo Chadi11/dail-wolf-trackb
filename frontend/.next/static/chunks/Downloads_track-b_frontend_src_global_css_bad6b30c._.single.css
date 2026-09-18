@@ -1,0 +1,42 @@
+/* [project]/Downloads/track-b/frontend/src/global.css [app-client] (css) */
+html {
+  -webkit-overflow-scrolling: touch;
+  height: 100%;
+}
+
+body, #root, #root__layout {
+  flex-direction: column;
+  flex: auto;
+  min-height: 100%;
+  display: flex;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/*# sourceMappingURL=Downloads_track-b_frontend_src_global_css_bad6b30c._.single.css.map*/
