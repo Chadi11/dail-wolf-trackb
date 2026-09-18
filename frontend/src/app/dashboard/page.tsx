@@ -1,11 +1,11 @@
 import { CONFIG } from 'src/global-config';
 
-import { BlankView } from 'src/sections/blank/view';
+import { DamageView } from 'src/sections/damage/view';
 
 // ----------------------------------------------------------------------
 
-export const metadata = { title: `Dashboard - ${CONFIG.appName}` };
+export const metadata = { title: `Schadenvisualisierung - ${CONFIG.appName}` };
 
 export default function Page() {
-  return <BlankView title="Page one" />;
+  return <DamageView />;
 }

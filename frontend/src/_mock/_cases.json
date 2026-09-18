@@ -1,0 +1,1238 @@
+[
+ {
+  "id": 834726,
+  "licensePlate": "QQN-JC 1499",
+  "manufacturer": "Ford",
+  "model": "Kuga",
+  "mileage": 86994,
+  "freitext": "Kunde meldet: Vandalismus, Schaden am 04.05. entdeckt. Kotflügel hinten rechts: Kratzer im Klarlack, ca. 5 cm.\nFahrertür ebenfalls: feine Kratzspuren.\nAuch Kotflügel vorne rechts beschädigt (Kratzer im Klarlack).\nKunde möchte Fzg. bis Monatsende zurück. Kunde wartet vor Ort.\nVollkasko, SB 500 EUR, Schadenmeldung raus.\nNach Zerlegung nachkalkulieren.\n~~~~~~~~~~~~~\n11.05.26 16:28 Servicebüro: Kalkulation fertig, an Prüfer\n18.05.26 19:28 A. Thiel: Freigabe Versicherung eingetroffen\n19.05.26 22:28 A. Thiel: KD informiert, Termin steht",
+  "states": [
+   {
+    "id": 88,
+    "name": "🙂Vorgang angelegt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 949,
+    "name": "Vermessen und Kalibrieren",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1080,
+    "name": "Lack Neu",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 501,
+    "name": "🛠📢 Reparaturtermin vereinbaren",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 850023,
+  "licensePlate": "QQN-X 741",
+  "manufacturer": "Mercedes",
+  "model": "Sprinter",
+  "mileage": 167246,
+  "freitext": "Anruf Kunde: Hagelschaden, Schaden erst später bemerkt. Dach mit mehreren Dellen aus Hagelschlag.\nHagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt.\nHagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.\nKunde bittet um Rückruf bis Freitag.\nTeilkasko läuft, SB laut Police 300 EUR.\nTermin steht, Dauer ca. 2 Tage.\n~~~~~~~~~~~~~\n29.04.26 19:36 SB: Fzg. gewaschen, abholbereit\n08.05.26 00:36 Servicebüro: Teile bestellt, Nachricht an Dispo",
+  "states": [
+   {
+    "id": 435,
+    "name": "🕋🤔Antwort Versicherer/GA/Leasing/Kunde fehlt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 958,
+    "name": "Lack Finish fertig",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1585,
+    "name": "Heute",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 480,
+    "name": "↪Retoure angemeldet",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 99,
+    "name": "🛒📣📣Teile Nachbestellen",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 866844,
+  "licensePlate": "ZQL-RV 247",
+  "manufacturer": "Mercedes",
+  "model": "Vito",
+  "mileage": 82660,
+  "freitext": "Fzg. angeliefert, Auffahrunfall im Stau auf der Autobahn. Schaden an Kotflügel hinten rechts, Kratzer bis auf Grundierung, ca. 25 cm.\nAuch Stoßstange hinten links beschädigt (Beule).\nStoßstange vorne links ebenfalls: Riss im Lack.\nKunde fragt nach Reparaturdauer. Abholung durch Kunde am Nachmittag.\nGegnerische Haftpflicht reguliert, Haftung anerkannt.\nTermin steht, Dauer ca. 2 Tage.\nVersicherung: Blauberg Allgemeine, Schadennr. 04942088.\n~~~~~~~~~~~~~\n30.07.26 14:16 TS: KD informiert, Termin steht\n07.08.26 18:16 E. Kaiser: Kalkulation fertig, an Prüfer\n12.08.26 21:16 E. Kaiser: Nachtrag: Kunde bittet um Verschiebung",
+  "states": [
+   {
+    "id": 14,
+    "name": "🚛✅ Ausgeliefert",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 948,
+    "name": "Teile fehlen Auto steht",
+    "category_id": 61,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 847918,
+  "licensePlate": "QQM-N 39",
+  "manufacturer": "Audi",
+  "model": "A6 Avant",
+  "mileage": 107403,
+  "freitext": "Kunde meldet: Auffahrunfall, Kunde war selbst aufgefahren. Kotflügel hinten links: Schrammen, ca. 3 cm Durchmesser.\nZusätzlich Kotflügel hinten rechts betroffen, kleine Delle.\nStoßstange vorne ebenfalls: Druckstelle.\nBitte KVA vor Reparatur abstimmen.\nHaftpflicht Gegner, Gutachter beauftragt.\nErsatzteil im Rückstand, Kunde informiert.\nVersicherung: Kiesbach Assekuranz, Schadennr. 06394271.\n~~~~~~~~~~~~~\n27.02.26 19:08 N. Ludwig: Fzg. in Halle, Zerlegung begonnen\n03.03.26 22:08 Servicebüro: KD informiert, Termin steht",
+  "states": [
+   {
+    "id": 9,
+    "name": "🏁 Abgeholt",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 952,
+    "name": "👨Spengler zugewiesen",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1088,
+    "name": "Nochmal lackieren!!",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1594,
+    "name": "KV in Prüfung",
+    "category_id": 107,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 821084,
+  "licensePlate": "QQK-ZX 4713",
+  "manufacturer": "BMW",
+  "model": "X1",
+  "mileage": 98546,
+  "freitext": "BMW X1, QQK-ZX 4713, km 98546\nAnruf Kunde: Auffahrunfall, Hergang lt. Kunde unklar. Kratzer bis auf Grundierung an Stoßstange hinten links, ca. 40 cm.\nAuch Stoßstange hinten beschädigt (Kunststoff eingedrückt).\nStoßstange vorne rechts ebenfalls: Riss im Lack.\nKunde fragt nach Reparaturdauer.\nSteuerung über Flottenpartner, Freigabe schriftlich nötig.\nTeile bestellt, Liefertermin offen.\n~~~~~~~~~~~~~\n17.04.26 16:05 Dispo: Kunde meldet sich wegen Termin",
+  "states": [
+   {
+    "id": 17,
+    "name": "♻️In Bearbeitung",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 953,
+    "name": "Eingang AufträgeTeile Vollständig",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1593,
+    "name": "Auftragsannahmebestätigung",
+    "category_id": 107,
+    "is_done": false
+   },
+   {
+    "id": 487,
+    "name": "3️⃣3. x nachgehackt !!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 1014,
+    "name": "K und L Auftrag fertig machen",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 863452,
+  "licensePlate": "QQK-U 71",
+  "manufacturer": "Audi",
+  "model": "A1 Sportback",
+  "mileage": 93109,
+  "freitext": "Audi A1 Sportback, QQK-U 71\nFzg. angeliefert, Hagelschaden vom Unwetter am 10.04. Hagelschlag flächig, Dach mit zahlreichen Dellen.\nHeckklappe mit mehreren Dellen aus Hagelschlag.\nHagelschlag flächig, Motorhaube mit zahlreichen Dellen.\nKunde fragt nach Smart Repair. Kunde wartet vor Ort.\nTeilkasko läuft, SB laut Police 300 EUR.\nVersicherung: Blauberg Allgemeine, Schadennr. 34353732.\n~~~~~~~~~~~~~\n13.04.26 13:03 O. Martens: Ersatzteil eingetroffen, Termin vereinbaren",
+  "states": [
+   {
+    "id": 13,
+    "name": "😢 Kunde nicht erschienen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 1139,
+    "name": "Abgeholt",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1080,
+    "name": "Lack Neu",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 488,
+    "name": "2️⃣2. x nachgehackt!!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 499,
+    "name": "💌Teil im Rückstand Kunden Zwischeninfo geben",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": "2026-04-15 08:26:53"
+ },
+ {
+  "id": 845766,
+  "licensePlate": "QX-F 9940",
+  "manufacturer": "VW",
+  "model": "Polo",
+  "mileage": 276487,
+  "freitext": "Kunde berichtet: Hagelschaden, Schaden erst später bemerkt. Hagelschlag flächig, Dach mit zahlreichen Dellen.\nHagelschlag flächig, Motorhaube mit zahlreichen Dellen.\nHagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.\nSelbstzahler, Rechnung an Kunde.\nFzg. steht auf dem Hof.\n~~~~~~~~~~~~~\n05.05.26 14:03 SB: Nachtrag: Kunde bittet um Verschiebung",
+  "states": [
+   {
+    "id": 36,
+    "name": "🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 993,
+    "name": "Fertig zur Abholung bitte Folgetermin!!",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1099,
+    "name": "Multiboxen!",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 487,
+    "name": "3️⃣3. x nachgehackt !!",
+    "category_id": 1,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 888092,
+  "licensePlate": "XQS-S 889",
+  "manufacturer": "BMW",
+  "model": "X1",
+  "mileage": 261801,
+  "freitext": "BMW X1, XQS-S 889\nLt. Kunde: Auffahrunfall an der Kreuzung, Schadenmeldung liegt vor. An Heckklappe Aufnahme abgerissen (ca. 25 cm).\nStoßstange vorne ebenfalls: Bauteil durchgebrochen.\nWeiterer Schaden Stoßstange hinten rechts, Blech verzogen.\nKunde fragt nach Reparaturdauer. Kunde wartet vor Ort.\nSelbstzahler, keine Vers. im Spiel.\nNach Zerlegung nachkalkulieren.\n~~~~~~~~~~~~~\n27.03.26 13:32 Karosserie: Kalkulation fertig, an Prüfer",
+  "states": [
+   {
+    "id": 530,
+    "name": "🚀Auftrag erteilt/Teile vorbestellt/Termin wenn Teile da",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 956,
+    "name": "Teile noch nicht da",
+    "category_id": 61,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 883252,
+  "licensePlate": "XQE-YB 6634",
+  "manufacturer": "Mercedes",
+  "model": "Sprinter",
+  "mileage": 42911,
+  "freitext": "Kdune meldet: Vandalismus auf dem Betriebsgelände, Kameraaufnahme vorhanden. Riss im Lack an Tür hinten links, ca. 10 cm.\nAuch Kotflügel vorne rechts beschädigt (Riss im Lack).\nWeiterer Schaden Schweller rechts, Riss im Lack.\nKVA erwünscht, bitte per Mail. Leihwagen nein, Kunde wartet.\nTeilkasko läuft, SB laut Police 300 EUR.\nBitte Kalkulation erstellen.\nVersicherung: Kiesbach Assekuranz, Schadennr. 16788855.",
+  "states": [
+   {
+    "id": 9,
+    "name": "🏁 Abgeholt",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 936,
+    "name": "🎨✅Lack fertig",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 612,
+    "name": "💚 1. Teillieferung",
+    "category_id": 1,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 852068,
+  "licensePlate": "QQR-K 2",
+  "manufacturer": "VW",
+  "model": "Golf",
+  "mileage": 32893,
+  "freitext": "Kunde kommt ohne Termin, Hagelschaden, Kunde meldet Unwetterschaden. Dach übersät mit Dellen, Zählung Dellenkarte offen.\nHagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.\nMotorhaube mit mehreren Dellen aus Hagelschlag.\nKunde bittet um KVA.\nTeilkasko läuft, SB laut Police 300 EUR.\nFotos liegen im Vorgang.\n~~~~~~~~~~~~~\n07.03.26 10:07 T. Brandt: Rückruf nicht erreicht, Mailbox",
+  "states": [
+   {
+    "id": 36,
+    "name": "🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 957,
+    "name": "Termin unsicher",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1586,
+    "name": "Morgen",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 489,
+    "name": "1️⃣1. x nachgehackt!",
+    "category_id": 1,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 857915,
+  "licensePlate": "QQD-T 55",
+  "manufacturer": "Opel",
+  "model": "Vivaro",
+  "mileage": 279864,
+  "freitext": "Kunde kommt ohne Termin, Auffahrunfall an der Ampel, Gegner aufgefahren. Kotflügel vorne links: Halterung gebrochen, ca. 3 cm Durchmesser.\nAuch Heckklappe beschädigt (Riss im Lack).\nWeiterer Schaden Kotflügel hinten rechts, Beule.\nKunde fragt nach Reparaturdauer. Ersatzwagen geklärt, Klasse klein.\nVollkasko, Rückstufung mit Kunde besprochen.\nNach Zerlegung nachkalkulieren.\nVersicherung: Talblick Versicherung, Schadennr. 43385420.",
+  "states": [
+   {
+    "id": 11,
+    "name": "👽💣Rückstand ohne Termin! Teilerückstand Fzg. bei uns",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 948,
+    "name": "Teile fehlen Auto steht",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 101,
+    "name": "🛑❌Rückstand ohne Termin!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 501,
+    "name": "🛠📢 Reparaturtermin vereinbaren",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 840363,
+  "licensePlate": "QQT-T 2137",
+  "manufacturer": "Audi",
+  "model": "A6 Avant",
+  "mileage": 104597,
+  "freitext": "Kunde meldet: Vandalismus, Schaden am 14.04. entdeckt. Schaden an Stoßstange hinten links, Halterung gebrochen, punktuell, mehrere Stellen.\nWeiterer Schaden Außenspiegel links, Kunststoff eingedrückt.\nWeiterer Schaden Beifahrertür, Riss im Lack.\nKunde möchte wissen ob Instandsetzung reicht. Fzg. bleibt über Nacht da.\nTeilkasko, SB 150 EUR, KVA an Vers.\nBitte Lackabgleich, Farbton prüfen.\nVersicherung: Kiesbach Assekuranz, Schadennr. 89804778.",
+  "states": [
+   {
+    "id": 1422,
+    "name": "Fahrzeug abgeholt (/kommt nochmal)",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 1139,
+    "name": "Abgeholt",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1087,
+    "name": "Lack fertig!",
+    "category_id": 69,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 856050,
+  "licensePlate": "QQN-V 739",
+  "manufacturer": "Skoda",
+  "model": "Karoq",
+  "mileage": 40886,
+  "freitext": "Skoda Karoq, QQN-V 739, km 40886\nKD meldet telefonisch: Hagelschaden, mehrere Fzg. aus dem Ort betroffen. Heckklappe übersät mit Dellen, Zählung Dellenkarte offen.\nDach mit mehreren Dellen aus Hagelschlag.\nMotorhaube mit mehreren Dellen aus Hagelschlag.\nKunde möchte wissen ob Instandsetzung reicht. Leihwagen ja, Hol- und Bringservice ja.\nTeilkasko, SB 150 EUR, KVA an Vers.",
+  "states": [
+   {
+    "id": 36,
+    "name": "🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 950,
+    "name": "Termin bestätigen",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 487,
+    "name": "3️⃣3. x nachgehackt !!",
+    "category_id": 1,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 899757,
+  "licensePlate": "ZQD-ND 42",
+  "manufacturer": "Mercedes",
+  "model": "C-Klasse T-Modell",
+  "mileage": 74804,
+  "freitext": "Kunde meldet: Hagelschaden vom Unwetter am 14.04. Hagelschlag flächig, Dach mit zahlreichen Dellen.\nHagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.\nMotorhaube übersät mit Dellen, Zählung Dellenkarte offen.\nKunde bittet um Terminvorschlag.\nTK deckt Glasschaden, SB 150 EUR.\n~~~~~~~~~~~~~\n20.04.26 12:47 Teiledienst: Rueckruf nicht erreicht, Mailbox",
+  "states": [
+   {
+    "id": 533,
+    "name": "📲✅Vorkalkulation erledigt bitte Termin vereinbaren",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 952,
+    "name": "👨Spengler zugewiesen",
+    "category_id": 61,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 844980,
+  "licensePlate": "QY-XX 8",
+  "manufacturer": "VW",
+  "model": "Caddy",
+  "mileage": 65959,
+  "freitext": "Fzg. angeliefert, Wildunfall, Reh gegen Front, Wildbescheinigung liegt vor. Stoßstange vorne rechts: Aufnahme abgerissen, ca. 10 cm.\nAuch Stoßstange vorne beschädigt (großflächig deformiert).\nKotflügel vorne links ebenfalls: stark eingedrückt.\nKunde bittt um Rückruf bis Freitag. Leihwagen ja, Hol- und Bringservice ja.\nTeilkasko, SB 150 EUR, KVA an Vers.\nBitte Lackabgleich, Farbton prüfen.\n~~~~~~~~~~~~~\n03.07.26 10:48 TS: KD informiert, Termiin steht",
+  "states": [
+   {
+    "id": 14,
+    "name": "🚛✅ Ausgeliefert",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 949,
+    "name": "Vermessen und Kalibrieren",
+    "category_id": 61,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 837265,
+  "licensePlate": "ZQR-L 634",
+  "manufacturer": "Skoda",
+  "model": "Karoq",
+  "mileage": 12339,
+  "freitext": "Fzg. angeliefert, Vandalismus über Nacht an der Straße. Stoßstange hinten rechts Halterung gebrochen, ca. 40 cm.\nWeiterer Schaden Tür hinten links, Lack abgeplatzt.\nKotflügel hinten rechts ebenfalls: Lack abgeplatzt.\nKunde bittet um KVA. Fzg. bleibt über Nacht da.\nOhne Versicherung, Kunde entscheidet nach Preis.\nFreigabe eingetroffen, Teile bestellt.\n~~~~~~~~~~~~~\n03.06.26 11:32 TS: Endkontrolle offen\n08.06.26 11:32 S. Moser: Leihwagen reserviert\n13.06.26 12:32 Servicebüro: Rückruf nicht erreicht, Mailbox",
+  "states": [
+   {
+    "id": 34,
+    "name": "🌗✔️Nachbestellung Termin bestätigt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 954,
+    "name": "Problemfall/Reklamation",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1586,
+    "name": "Morgen",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1249,
+    "name": "ET Lieferung kpl. eingegangen - Dispo Termin vereinbaren",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 856108,
+  "licensePlate": "QY-K 890",
+  "manufacturer": "Seat",
+  "model": "Ibiza",
+  "mileage": 54186,
+  "freitext": "Seat Ibiza, QY-K 890, km 54186\nBei der Annahme festgestellt: Vandalismus, Verursacher unbekannt. Kotflügel vorne rechts: Lackabrieb, ca. 25 cm.\nWeiterer Schaden Schweller rechts, feine Kratzspuren.\nZusätzlich Motorhaube betroffen, Kratzer im Klarlack.\nKunde bittet um Terminvorschlag. Leihwagen nein, Kunde wartet.\nOhne Versicherung, Kunde entscheidet nach Preis.\nFotos liegen im Vorgang.\n~~~~~~~~~~~~~\n29.01.26 12:17 H. Reuter: Leihwagen reserviert\n04.02.26 13:17 TS: KV an Kunde verschickt",
+  "states": [
+   {
+    "id": 121,
+    "name": "abgerechnet ! Auftrag erledigt abgeschlossen",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 948,
+    "name": "Teile fehlen Auto steht",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1151,
+    "name": "Große Vorbereitungsarbeit",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1173,
+    "name": "Gutschrift erhalten - weiter zur Nachberechnung",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 879984,
+  "licensePlate": "QQK-NW 296",
+  "manufacturer": "Ford",
+  "model": "Fiesta",
+  "mileage": 136861,
+  "freitext": "Ford Fiesta, QQK-NW 296, km 136861\nKD meldet telefonisch: Auffahrunfall, Hergang lt. Kunde unklar. Kotflügel vorne rechts Delle mit Lackschaden, ca. 40 cm.\nZusätzlich Kotflügel vorne links betroffen, Halterung gebrochen.\nWeiterer Schaden Kotflügel hinten rechts, Delle mit Lackschaden.\nKunde will erst nach Preis entscheiden. Ersatzwagen geklärt, Klasse klein.\nUnfallgegner bekannt, Haftung dem Grunde nach unstrittig.\nVersicherung: Seeblick Kasko, Schadennr. 71106231.\n~~~~~~~~~~~~~\n26.03.26 13:04 T. Stein: KV an Kunde verschickt\n02.04.26 14:04 TS: Rückruf nicht erreicht, Mailbox",
+  "states": [
+   {
+    "id": 121,
+    "name": "abgerechnet ! Auftrag erledigt abgeschlossen",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 1010,
+    "name": "Reparaturerweiterung Absprache mit Serviceberater",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1085,
+    "name": "Fertig für Lackbox",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1608,
+    "name": "Rechnungsablehnung!",
+    "category_id": 107,
+    "is_done": false
+   },
+   {
+    "id": 860,
+    "name": "📦Teile per Post an KD verschickt",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 996,
+    "name": "Vorbestellungen Termin nach Teileeingang",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 846743,
+  "licensePlate": "QZ-TP 52",
+  "manufacturer": "Skoda",
+  "model": "Scala",
+  "mileage": 29078,
+  "freitext": "Kunde kommt ohne Termin, Hagelschaden, Kunde meldet Unwetterschaden. Hagel: Dach betroffen, Lack laut Sichtprüfung intakt.\nHagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt.\nHagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.\nKunde möchte wissen ob Instandsetzung reicht.\nTK vorhanden, SB 150 EUR.\nKunde bekommt Zwischeninfo.\n~~~~~~~~~~~~~\n25.07.26 15:43 Karosserie: Leihwagen reserviert\n01.08.26 16:43 Servicebüro: Rechnung geschrieben\n05.08.26 20:43 U. Otto: Fzg. gewaschen, abholbereit",
+  "states": [
+   {
+    "id": 121,
+    "name": "abgerechnet ! Auftrag erledigt abgeschlossen",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 993,
+    "name": "Fertig zur Abholung bitte Folgetermin!!",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1100,
+    "name": "Industrielackierung",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 50,
+    "name": "🛒🚀Bitte Teile bestellen Fzg. im Haus",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 843743,
+  "licensePlate": "QQL-D 45",
+  "manufacturer": "Seat",
+  "model": "Leon",
+  "mileage": 66791,
+  "freitext": "Kunde berichtet: Steinschlag, Riss wird laut Kunde größer. Steinschlag Windschutzscheibe im Sichtfeld Fahrer, Reparatur nicht möglich, Austausch nötig.\nKVA erwünscht, bitte per Mail. Hol- und Bringservice gewünscht.\nTK vorhanden, SB 150 EUR.\nKunde bekommt Zwischeninfo.\nVersicherung: Blauberg Allgemeine, Schadennr. 31679983.\n~~~~~~~~~~~~~\n21.07.26 12:55 Dispo: Endkontrolle offen\n29.07.26 16:55 Teiledienst: Kunde meldet sich wegen Termin",
+  "states": [
+   {
+    "id": 18,
+    "name": "☢️ Auftrag steht ☢️",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 1139,
+    "name": "Abgeholt",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1086,
+    "name": "Im Zulauf für Box",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 998,
+    "name": "Reifenbestellung",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 851484,
+  "licensePlate": "ZQS-TV 28",
+  "manufacturer": "VW",
+  "model": "Touran",
+  "mileage": 66727,
+  "freitext": "VW Touran, ZQS-TV 28\nFzg. angeliefert, Parkschaden, Verursacher unbekannt. Schaden an Außenspiegel links, Kratzer, Lack nicht durch, ca. 15 cm.\nKVA erwünscht, bitte per Mail.\nKunde zahlt selbst, KVA vorab.\nBeilackierung notwendig.\n~~~~~~~~~~~~~\n02.03.26 15:33 SB: Teile bestellt, Nachricht an Dispo\n05.03.26 17:33 D. Beck: KD informiert, Termin steht",
+  "states": [
+   {
+    "id": 14,
+    "name": "🚛✅ Ausgeliefert",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 947,
+    "name": "Zerlegen Schadenfeststellung / Karosserievermessung",
+    "category_id": 61,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 864049,
+  "licensePlate": "QQW-JP 16",
+  "manufacturer": "Seat",
+  "model": "Leon",
+  "mileage": 179967,
+  "freitext": "Seat Leon, QQW-JP 16\nKunde meldet: Auffahrunfall, Hergang lt. Kunde unklar. Beule an Stoßstange vorne, ca. 25 cm.\nAuch Stoßstange hinten rechts beschädigt (Beule).\nKunde bittet um Rückruf bis Freitag.\nHaftpflicht Gegner, Gutachter beauftragt.\nVersicherung: Seeblick Kasko, Schadennr. 19543748.\n~~~~~~~~~~~~~\n15.01.26 14:03 SB: Endkontrolle offen\n23.01.26 19:03 Teiledienst: Nachtrag: Kunde bittet um Verschiebung",
+  "states": [
+   {
+    "id": 16,
+    "name": "⚠️Warte auf Freigabe",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 955,
+    "name": "Wartet oder Folgetermin",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1151,
+    "name": "Große Vorbereitungsarbeit",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1601,
+    "name": "Ablehnung Rechnung",
+    "category_id": 107,
+    "is_done": false
+   },
+   {
+    "id": 598,
+    "name": "👁‍🗨Teile sollten da sein Nochmals Kontrolle",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 99,
+    "name": "🛒📣📣Teile Nachbestellen",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 851935,
+  "licensePlate": "ZQR-PX 23",
+  "manufacturer": "Skoda",
+  "model": "Octavia Combi",
+  "mileage": 198496,
+  "freitext": "Kunde bringt Fzg., Auffahrunfall an der Ampel, Gegner aufgefahren. Stoßstange vorne links: Riss im Lack, ca. 5 cm.\nStoßstange vorne ebenfalls: Lack abgeplatzt.\nWeiterer Schaden Motorhaube, Beule.\nKunde will erst nach Preis entscheiden. Hol- und Bringservice gewünscht.\nVollkasko, Rückstufung mit Kunde besprochen.\nTermin steht, Dauer ca. 2 Tage.\nVersicherung: Talblick Versicherung, Schadennr. 47836196.\n~~~~~~~~~~~~~\n13.07.26 09:02 M. Jung: Endkontrolle offen\n18.07.26 12:02 TS: Fzg. in Halle, Zerlegung begonnen",
+  "states": [
+   {
+    "id": 9,
+    "name": "🏁 Abgeholt",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 957,
+    "name": "Termin unsicher",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1571,
+    "name": "Lackierung klein",
+    "category_id": 69,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 846074,
+  "licensePlate": "ZQB-W 63",
+  "manufacturer": "BMW",
+  "model": "X1",
+  "mileage": 46037,
+  "freitext": "Kunde bringt Fzg., Steinschlag bei der Baustellenfahrt. Riss in Windschutzscheibe zieht sich über die halbe Breite.\nKVA erwünscht, bitte per Mail.\nTeilkasko läuft, SB laut Police 300 EUR.\nErsatzteil nur komplett lieferbar, Austausch statt Instandsetzung.\n~~~~~~~~~~~~~\n28.02.26 19:25 Servicebüro: Fzg. in Halle, Zerlegung begonnen\n05.03.26 20:25 Annahme: KD informiert, Termin steht\n12.03.26 23:25 SB: Fzg. gewaschen, abholbereit",
+  "states": [
+   {
+    "id": 88,
+    "name": "🙂Vorgang angelegt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 954,
+    "name": "Problemfall/Reklamation",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 101,
+    "name": "🛑❌Rückstand ohne Termin!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 1131,
+    "name": "Erledigt und korrigiert!",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 861417,
+  "licensePlate": "XQL-TA 945",
+  "manufacturer": "BMW",
+  "model": "5er Limousine",
+  "mileage": 29739,
+  "freitext": "BMW 5er Limousine, XQL-TA 945, km 29739\nFzg. angeliefert, Auffahrunfall, Kunde war selbst aufgefahren. Schaden an Motorhaube, Delle mit Lackschaden, ca. 10 cm.\nWeiterer Schaden Kotflügel hinten links, Lack abgeplatzt.\nZusätzlich Kotflügel vorne links betroffen, Beule.\nKunde bittt um Rückruf bis Freitag.\nUnfallgegner bekannt, Haftung dem Grunde nach unstrittig.\nBitte Kalkulation erstellen.\nVersicherung: Talblick Versicherung, Schadennr. 49790919.\n~~~~~~~~~~~~~\n25.04.26 15:33 T. Herrmann: Nachtrag: Kunde bittet um Verschiebung\n27.04.26 17:33 Dispo: Endkontrolle offen\n05.05.26 17:33 SB: Kunde meldet sich wegen Termin",
+  "states": [
+   {
+    "id": 41,
+    "name": "🛑 Wartet auf Abholung durch Verwerter/Leasing/sonstige",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 1139,
+    "name": "Abgeholt",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1086,
+    "name": "Im Zulauf für Box",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 1590,
+    "name": "Neuer Reparaturauftrag",
+    "category_id": 107,
+    "is_done": false
+   },
+   {
+    "id": 614,
+    "name": "💙 4. Teillieferung",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 997,
+    "name": "Rückstand laufender Auftrag",
+    "category_id": 64,
+    "is_done": false
+   },
+   {
+    "id": 499,
+    "name": "💌Teil im Rückstand Kunden Zwischeninfo geben",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 897062,
+  "licensePlate": "QQS-W 249",
+  "manufacturer": "Mercedes",
+  "model": "B-Klasse",
+  "mileage": 43313,
+  "freitext": "Mercedes B-Klasse, QQS-W 249, km 43313\nKunde berichtet: Hagelschaden vom Unwetter am 29.04. Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt.\nDach übersät mit Dellen, Zählung Dellenkarte offen.\nHeckklappe mit mehreren Dellen aus Hagelschlag.\nKunde möchte wissen ob Instandsetzung reicht. Fzg. bleibt über Nacht da.\nTK deckt Glasschaden, SB 150 EUR.\nKunde ist informiert, meldet sich.\nVersicherung: Lindenhof Assekuranz, Schadennr. 31425001.\n~~~~~~~~~~~~~\n12.05.26 17:52 J. Peters: Freigabe Versicherung eingetroffen\n19.05.26 20:52 Dispo: KV an Kunde verschickt\n22.05.26 23:52 J. Peters: Leihwagen reserviert",
+  "states": [
+   {
+    "id": 157,
+    "name": "🛒MECHANIK Teile vorab bestellen!",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 947,
+    "name": "Zerlegen Schadenfeststellung / Karosserievermessung",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1042,
+    "name": "Termin: bitte Teile vorbestellen!",
+    "category_id": 64,
+    "is_done": false
+   },
+   {
+    "id": 110,
+    "name": "😠🧮KV Service ohne Reparatur",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 848413,
+  "licensePlate": "QQ-M 597",
+  "manufacturer": "Mercedes",
+  "model": "Sprinter",
+  "mileage": 203877,
+  "freitext": "Kunde bringt Fzg., Auffahrunfall, Unfallgegner hat Schuld anerkannt. Stoßstange hinten Kunststoff eingedrückt, handtellergroß.\nBitte KVA vor Reparatur abstimmen. Abholung durch Kunde am Nachmittag.\nGegnerische Haftpflicht reguliert, Haftung anerkannt.\n~~~~~~~~~~~~~\n25.02.26 19:47 M. Gross: Nachtrag: Kunde bittet um Verschiebung\n04.03.26 22:47 Dispo: Ersatzteil eingetroffen, Termin vereinbaren",
+  "states": [
+   {
+    "id": 157,
+    "name": "🛒MECHANIK Teile vorab bestellen!",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 952,
+    "name": "👨Spengler zugewiesen",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 602,
+    "name": "💢Auftrag für Rückstandsteil Hauptauftrag abgerechnet!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 50,
+    "name": "🛒🚀Bitte Teile bestellen Fzg. im Haus",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 846807,
+  "licensePlate": "XQD-XG 4301",
+  "manufacturer": "Audi",
+  "model": "A1 Sportback",
+  "mileage": 76043,
+  "freitext": "Audi A1 Sportback, XQD-XG 4301, km 76043\nLt. Kunde: Rangierschaden, Poller übersehen. An Kotflügel vorne rechts Lackabrieb (über zwei Bauteile).\nBitte KVA vor Reparatur abstimmen. Leihwagen ja.\nSelbstzahler, keine Vers. im Spiel.\nBitte Kalkulation erstellen.\n~~~~~~~~~~~~~\n27.03.26 13:34 Dispo: Freigabe Versicherung eingetroffen",
+  "states": [
+   {
+    "id": 436,
+    "name": "👋 Termin bitte vereinbaren /Teile/Freigabe/etc. eingetroffen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 937,
+    "name": "🎫 ✅Fertig für Vorbereitung und Lack",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1572,
+    "name": "Teile ohne Fahrzeug",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 2,
+    "name": "✔️Lieferung vollständig",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 1027,
+    "name": "Nachfrage Dispo wg Teil",
+    "category_id": 64,
+    "is_done": false
+   },
+   {
+    "id": 470,
+    "name": "💥Unklar!!",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 882011,
+  "licensePlate": "QQV-R 432",
+  "manufacturer": "Ford",
+  "model": "Focus Turnier",
+  "mileage": 47332,
+  "freitext": "Ford Focus Turnier, QQV-R 432, km 47332\nKunde meldet: Rangierschaden beim Rangieren am Hof. Kotflügel vorne links Lack abgeplatzt, ca. 5 cm.\nAußenspiegel rechts ebenfalls: Kratzer bis auf Grundierung.\nKunde bittet um Terminvorschlag.\nSelbstzahler, keine Vers. im Spiel.\n~~~~~~~~~~~~~\n13.07.26 10:58 J. Wendt: Nachtrag: Kunde bittet um Verschiebung",
+  "states": [
+   {
+    "id": 17,
+    "name": "♻️In Bearbeitung",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 951,
+    "name": "Fertig zur Abholung/Auslieferung",
+    "category_id": 61,
+    "is_done": false
+   },
+   {
+    "id": 1099,
+    "name": "Multiboxen!",
+    "category_id": 69,
+    "is_done": false
+   },
+   {
+    "id": 613,
+    "name": "🖤 5. Teillieferung",
+    "category_id": 1,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 872010,
+  "licensePlate": "ZQR-FF 800",
+  "manufacturer": "Audi",
+  "model": "A4 Avant",
+  "mileage": 125762,
+  "freitext": "KD meldet telefonisch: Große Inspektion inkl. Innenraumfilter.\nKunde meldet Vibration ab 120 km/h.\nKunde fragt nach Ersatzwagen.\n~~~~~~~~~~~~~\n15.08.26 11:43 Annahme: Fzg. gewaschen, abholbereit",
+  "states": [
+   {
+    "id": 37,
+    "name": "🔜Neuer Folgetermin",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 396,
+    "name": "🚫 2 Reifen beschädigt 🚫",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 101,
+    "name": "🛑❌Rückstand ohne Termin!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 470,
+    "name": "💥Unklar!!",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 857329,
+  "licensePlate": "QQE-X 28",
+  "manufacturer": "Seat",
+  "model": "Ibiza",
+  "mileage": 171773,
+  "freitext": "Seat Ibiza, QQE-X 28, km 171773\nFzg. vorgefahren, Inspektion mit Pollenfilter und Bremsflüssigkeit.\nServicerückstellung nicht erfolgt, bitte mitmachen.",
+  "states": [
+   {
+    "id": 9,
+    "name": "🏁 Abgeholt",
+    "category_id": 4,
+    "is_done": true
+   },
+   {
+    "id": 395,
+    "name": "⚠️ 4 Reifen abgefahren ⚠️",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 1449,
+    "name": "Teile für KV aufbuchen",
+    "category_id": 64,
+    "is_done": false
+   },
+   {
+    "id": 51,
+    "name": "🛑🔙Folgetermin vereinbaren",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 857700,
+  "licensePlate": "ZQR-V 16",
+  "manufacturer": "Opel",
+  "model": "Mokka",
+  "mileage": 89311,
+  "freitext": "Opel Mokka, ZQR-V 16\nKunde meldet: Ölwechsel inkl. Filter nach Serviceplan.\nBitte anrufen wenn mehr anfällt als besprochen. Abholung durch Kunde am Nachmittag.\nTermin steht, Dauer ca. 2 Tage.\n~~~~~~~~~~~~~\n26.01.26 19:21 Annahme: Kalkulation fertig, an Prüfer",
+  "states": [
+   {
+    "id": 16,
+    "name": "⚠️Warte auf Freigabe",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 241,
+    "name": "😏🛒Mech Warte auf Teile",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 487,
+    "name": "3️⃣3. x nachgehackt !!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 1013,
+    "name": "Alle Aufträge dieses Autos vollständig!!",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 834462,
+  "licensePlate": "QQK-D 649",
+  "manufacturer": "BMW",
+  "model": "X3",
+  "mileage": 113282,
+  "freitext": "Fzg. vorgefahren, Bremsbeläge vorne unter Mindeststärke.\nInnenraumfilter riecht, mit tauschen.\nBitte Rechnung an die Firma.\nKunde ist informiert, meldet sich.\n~~~~~~~~~~~~~\n05.03.26 16:09 Karosserie: Freigabe Versicherung eingetroffen\n10.03.26 21:09 H. Riedel: Ersatzteil eingetroffen, Termin vereinbaren",
+  "states": [
+   {
+    "id": 1559,
+    "name": "🔧📞 Mechanik Termin bitte vereinbaren /Teile, Freigabe eingetroffen",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 397,
+    "name": "⚠️2 Reifen abgefahren",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 532,
+    "name": "💥Auftrag Storniert was machen wir mit den Teilen?",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 469,
+    "name": "⁉Besichtigung erl. Freigabe einholen und rep. Termin vereinbaren",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 825030,
+  "licensePlate": "QQD-KV 8647",
+  "manufacturer": "Skoda",
+  "model": "Superb Combi",
+  "mileage": 109435,
+  "freitext": "Skoda Superb Combi, QQD-KV 8647, km 109435\nÖlwechsel: Ölservice fällig, Anzeige im Display.\nInnenraumfilter riecht, mit tauschen.\nBitte Rechnung an die Firma. Fzg. bleibt über Nacht da.\n~~~~~~~~~~~~~\n16.06.26 12:44 M. Fiedler: Ersatzteil eingetroffen, Termin vereinbaren",
+  "states": [
+   {
+    "id": 533,
+    "name": "📲✅Vorkalkulation erledigt bitte Termin vereinbaren",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 785,
+    "name": "🆘Garantie/Kulanzantrag abrechnen/Rechnung an Kunden geschrieben",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 101,
+    "name": "🛑❌Rückstand ohne Termin!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 1170,
+    "name": "Gutschriften",
+    "category_id": 64,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 853139,
+  "licensePlate": "QQV-WZ 4244",
+  "manufacturer": "Audi",
+  "model": "A3 Sportback",
+  "mileage": 68366,
+  "freitext": "Kunde bringt Fzg., Inspektion fällig, Kunde wünscht Kostenrahmen vorab.\nKunde meldet Geräusch beim Lenken.\nTermin steht, Dauer ca. 2 Tage.",
+  "states": [
+   {
+    "id": 88,
+    "name": "🙂Vorgang angelegt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 918,
+    "name": "😶‍🌫️Statusbereinigung",
+    "category_id": 23,
+    "is_done": false
+   },
+   {
+    "id": 1566,
+    "name": "ET bestellt - Nachkalkulation notwendig!",
+    "category_id": 1,
+    "is_done": false
+   },
+   {
+    "id": 496,
+    "name": "1️⃣Kunde informiert und 1. Zwischeninfo gegeben!",
+    "category_id": 5,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ },
+ {
+  "id": 893019,
+  "licensePlate": "QQS-C 3",
+  "manufacturer": "Mercedes",
+  "model": "C-Klasse T-Modell",
+  "mileage": 116061,
+  "freitext": "Mercedes C-Klasse T-Modell, QQS-C 3, km 116061\nKunde berichtet: HU überfällig seit letztem Monat.\nBitte anrufen wenn mehr anfällt als besprochen. Hol- und Bringservice gewünscht.\nFzg. steht auf dem Hof.\n~~~~~~~~~~~~~\n22.02.26 15:20 Annahme: Kalkulation fertig, an Prüfer",
+  "states": [
+   {
+    "id": 88,
+    "name": "🙂Vorgang angelegt",
+    "category_id": 4,
+    "is_done": false
+   },
+   {
+    "id": 1308,
+    "name": "Endkontrolle",
+    "category_id": 23,
+    "is_done": false
+   }
+  ],
+  "canceledAt": null
+ }
+]
