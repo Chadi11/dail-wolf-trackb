@@ -1,5 +1,11 @@
 node_modules/
-node_modules/
 **/node_modules/
-node_modules/
-**/node_modules/
+.next/
+**/.next/
+.DS_Store
+**/.DS_Store
+
+# Secrets -- never commit
+.env.local
+**/.env.local
+.env*.local
